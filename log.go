@@ -1,5 +1,5 @@
 /*
-@author : dana underscore satriya at yahoo dot com
+@author : dana satriya
 */
 package xutil
 
