@@ -1,4 +1,8 @@
-perl_logging
+MISC_toolit
 ============
 
-perl logging
+MISC related stuffs. 
+Code snippets, here and there.
+Whatever I like. 
+
+
